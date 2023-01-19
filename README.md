@@ -13,6 +13,7 @@ Key "Enter" - Shooting
 
 # Implementations of function:
 * Different stages increase the speed of enemies and ambient graphics
+* Shooting
 * Bonuse (double shooting)
 * Multiplayer
 * Save best score to Database
