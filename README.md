@@ -2,13 +2,13 @@
 (2019) Spaceship Shooter 2D - SFML (C++) game made in a student group
 
 # Controls:
-* First player:
-Key "A" - Move to left
-Key "D" - Move to right
+* First player:<br />
+Key "A" - Move to left<br />
+Key "D" - Move to right<br />
 Key "Space" - Shooting
-* Second player:
-Key "4" - Move to left
-Key "6" - Move to right
+* Second player:<br />
+Key "4" - Move to left<br />
+Key "6" - Move to right<br />
 Key "Enter" - Shooting
 
 # Implementations of function:
